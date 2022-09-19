@@ -1,4 +1,4 @@
-#EXTM3u
+#EXTM3U
 #EXTINF:-1 ,Todas
 rtsp://VLC:EsteVLC1272@camocean.ddns.net:554/cam/realmonitor?channel=0&subtype=0
 #EXTINF:-1 ,Ocean Caja SD

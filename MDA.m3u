@@ -1,7 +1,7 @@
 #EXTM3u
-#EXTINF: 0; Todas
+#EXTINF:-1 ,Todas
 rtsp://VLC:EsteVLC1272@camocean.ddns.net:554/cam/realmonitor?channel=0&subtype=0
-#EXTINF: 0; Ocean Caja SD
+#EXTINF:-1 ,Ocean Caja SD
 rtsp://VLC:EsteVLC1272@camocean.ddns.net:554/cam/realmonitor?channel=1&subtype=1
-#EXTINF: 0; Ocean Fondo SD
+#EXTINF:-1 ,Ocean Fondo SD
 rtsp://VLC:EsteVLC1272@camocean.ddns.net:554/cam/realmonitor?channel=2&subtype=1
